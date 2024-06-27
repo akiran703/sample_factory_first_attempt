@@ -1,0 +1,9 @@
+[2024-06-27 12:33:55,451][13647] Saving configuration to /Users/kirakumar/Desktop/codedegen/sample_fact_demo/train_dir/default_experiment/config.json...
+[2024-06-27 12:33:55,473][13647] Rollout worker 0 uses device cpu
+[2024-06-27 12:33:55,473][13647] Rollout worker 1 uses device cpu
+[2024-06-27 12:33:55,473][13647] Rollout worker 2 uses device cpu
+[2024-06-27 12:33:55,473][13647] Rollout worker 3 uses device cpu
+[2024-06-27 12:33:55,474][13647] Rollout worker 4 uses device cpu
+[2024-06-27 12:33:55,474][13647] Rollout worker 5 uses device cpu
+[2024-06-27 12:33:55,474][13647] Rollout worker 6 uses device cpu
+[2024-06-27 12:33:55,474][13647] Rollout worker 7 uses device cpu
